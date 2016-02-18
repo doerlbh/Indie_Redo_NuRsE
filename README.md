@@ -1,3 +1,9 @@
+This is a clone from jianxigao/NuRsE. 
+The aim for this is to redo the project to test the hypothesis and learn about the methodology.
+I own no copyrights to the original codes.
+
+Baihan Lin
+
 ========================================================
  NuRsE - A MATLAB(R) Package for Network REsilience
 ========================================================
